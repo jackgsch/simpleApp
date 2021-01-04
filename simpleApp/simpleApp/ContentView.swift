@@ -9,14 +9,531 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("main branch test jack")
-            .padding()
-        Text("Abhay")
-            .padding()
-        Text("branch test2 test")
-            .padding()
-        Text("Abhay2")
-            .padding()
+        
+        VStack {
+            
+            ZStack{
+                
+                Rectangle()
+                    .frame(width: 300, height: 50, alignment: /*@START_MENU_TOKEN@*/.center/*@END_MENU_TOKEN@*/)
+                
+                Text("Move")
+                    .font(.body)
+                    .foregroundColor(Color.white)
+                    .multilineTextAlignment(.center)
+                
+            }
+            
+            
+            HStack{
+                
+                VStack{ //Column 1
+                    
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                    }
+                    
+                }
+                
+                VStack{ //Column 2
+                    
+                    
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                    }
+                    
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                    }
+                    
+                }
+                
+                VStack{ //Column 3
+                    
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                    }
+                    
+                }
+                
+                VStack{ //Column 4
+                    
+                    
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                    }
+                    
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                    }
+                    
+                }
+                
+                VStack{ //Column 5
+                    
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                    }
+                    
+                }
+                
+                VStack{ //Column 6
+                    
+                    
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                    }
+                    
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                    }
+                    
+                }
+                
+                VStack{ //Column 7
+                    
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                    }
+                    
+                }
+                
+                VStack{ //Column 8
+                    
+                    
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                        
+                    }
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                            .foregroundColor(Color.red)
+                        
+                    }
+                    
+                    HStack{
+                        
+                        Rectangle()
+                            .frame(width: 32, height: 32)
+                        
+                    }
+                    
+                }
+                
+                
+                
+            }
+            
+            ZStack{
+                
+                Rectangle()
+                    .frame(width: 300, height: 50, alignment: /*@START_MENU_TOKEN@*/.center/*@END_MENU_TOKEN@*/)
+                
+                Text("Move")
+                    .font(.body)
+                    .foregroundColor(Color.white)
+                    .multilineTextAlignment(.center)
+                
+            }
+            
+        }
+        
+        
     }
 }
 
