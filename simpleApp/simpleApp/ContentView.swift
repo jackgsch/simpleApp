@@ -34,6 +34,9 @@ struct ContentView: View {
                             
                             Rectangle()
                                 .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
+                            onTapGesture(count: 1, perform: {
+                                
+                            })
                             
                         }
                         HStack{
@@ -94,20 +97,20 @@ struct ContentView: View {
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                                 .foregroundColor(Color.red)
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                                 .foregroundColor(Color.red)
                             
                             
@@ -115,28 +118,28 @@ struct ContentView: View {
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                             
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                                 .foregroundColor(Color.red)
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                             
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                                 .foregroundColor(Color.red)
                             
                         }
@@ -144,7 +147,7 @@ struct ContentView: View {
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                             
                         }
                         
@@ -155,26 +158,26 @@ struct ContentView: View {
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                                 .foregroundColor(Color.red)
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                                 .foregroundColor(Color.red)
                             
                             
@@ -182,28 +185,27 @@ struct ContentView: View {
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
-                            
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                                 .foregroundColor(Color.red)
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                             
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                                 .foregroundColor(Color.red)
                             
                         }
@@ -216,20 +218,20 @@ struct ContentView: View {
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                                 .foregroundColor(Color.red)
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                                 .foregroundColor(Color.red)
                             
                             
@@ -237,28 +239,28 @@ struct ContentView: View {
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                             
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                                 .foregroundColor(Color.red)
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                             
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                                 .foregroundColor(Color.red)
                             
                         }
@@ -266,7 +268,7 @@ struct ContentView: View {
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                             
                         }
                         
@@ -277,26 +279,26 @@ struct ContentView: View {
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                                 .foregroundColor(Color.red)
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                                 .foregroundColor(Color.red)
                             
                             
@@ -304,28 +306,28 @@ struct ContentView: View {
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                             
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                                 .foregroundColor(Color.red)
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                             
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                                 .foregroundColor(Color.red)
                             
                         }
@@ -338,20 +340,20 @@ struct ContentView: View {
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                                 .foregroundColor(Color.red)
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                                 .foregroundColor(Color.red)
                             
                             
@@ -359,28 +361,28 @@ struct ContentView: View {
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                             
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                                 .foregroundColor(Color.red)
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                             
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                                 .foregroundColor(Color.red)
                             
                         }
@@ -388,7 +390,7 @@ struct ContentView: View {
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                             
                         }
                         
@@ -399,26 +401,26 @@ struct ContentView: View {
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                                 .foregroundColor(Color.red)
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                                 .foregroundColor(Color.red)
                             
                             
@@ -426,28 +428,28 @@ struct ContentView: View {
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                             
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                                 .foregroundColor(Color.red)
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                             
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                                 .foregroundColor(Color.red)
                             
                         }
@@ -460,20 +462,20 @@ struct ContentView: View {
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                                 .foregroundColor(Color.red)
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                                 .foregroundColor(Color.red)
                             
                             
@@ -481,28 +483,28 @@ struct ContentView: View {
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                             
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                                 .foregroundColor(Color.red)
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                             
                             
                         }
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                                 .foregroundColor(Color.red)
                             
                         }
@@ -510,7 +512,7 @@ struct ContentView: View {
                         HStack{
                             
                             Rectangle()
-                                .frame(width: 32, height: 32)
+                                .frame(width: metrics.size.width * 0.125, height: metrics.size.width * 0.125)
                             
                         }
                         
